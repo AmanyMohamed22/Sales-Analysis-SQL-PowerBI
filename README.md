@@ -78,7 +78,7 @@ The SQL queries cover:
 
 ### SQL Business Analysis
 
-![SQL Business Analysis](Screenshots/SQL_Business_Analysis.png)
+![SQL Business Analysis](https://github.com/AmanyMohamed22/Sales-Analysis-SQL-PowerBI/blob/main/SQL_Business_Analysis.png)
 
 ---
 
