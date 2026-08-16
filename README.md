@@ -117,7 +117,7 @@ Provides deeper insights into customer behavior and sales performance.
 * Top 10 Customers by Sales
 * Region Slicer
 
-![Customer & Sales Analysis](Screenshots/Customer_Sales_Analysis.png)
+![Customer & Sales Analysis](https://github.com/AmanyMohamed22/Sales-Analysis-SQL-PowerBI/blob/main/sales%20sql%202.png)
 
 ---
 
@@ -175,11 +175,3 @@ Interactive Dashboard
 * Data Visualization
 * Dashboard Development
 * Business Insights
-
----
-
-## 👩‍💻 Author
-
-**Amany Mohamed**
-
-**Junior Data Analyst | SQL | Power BI | Excel**
