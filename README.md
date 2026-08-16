@@ -100,7 +100,7 @@ Provides a high-level view of overall sales performance.
 * Total Sales by Region
 * Total Sales by Product
 
-![Sales Overview](Screenshots/Sales_Overview.png)
+![Sales Overview](https://github.com/AmanyMohamed22/Sales-Analysis-SQL-PowerBI/blob/main/sales%20sql%201.png)
 
 ---
 
