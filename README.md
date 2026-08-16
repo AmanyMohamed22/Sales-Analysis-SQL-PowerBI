@@ -76,6 +76,12 @@ The SQL queries cover:
 
 ---
 
+### SQL Business Analysis
+
+![SQL Business Analysis](Screenshots/SQL_Business_Analysis.png)
+
+---
+
 ## 📊 Power BI Dashboard
 
 The project includes **two interactive Power BI dashboard pages**.
